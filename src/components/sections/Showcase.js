@@ -24,13 +24,13 @@ const Section = styled.section`
     animation-duration: 40s;
 
     @media (max-width: 30em) {
-      animation-duration: 25s;
+      animation-duration: 15s;
     }
   }
   & > *:last-child {
     animation-duration: 30s;
     @media (max-width: 30em) {
-      animation-duration: 20s;
+      animation-duration: 10s;
     }
   }
 `;
@@ -127,7 +127,7 @@ const NftItem = ({ img, number = 0, price = 0, passRef }) => {
 
   return (
     <ImgContainer onMouseOver={(e) => pause(e)} onMouseOut={(e) => play(e)}>
-      <img width={500} height={400} src={img} alt="The Weirdos" />
+      <img width={500} height={400} src={img} alt="lens" />
       <Details>
         <div>
           <span>Color Contact Lenses</span> <br />

@@ -166,7 +166,11 @@ const About = () => {
             ideal pair without overspending.
           </SubTextLight>
           <ButtonContainer>
-            <Button text="Contact Us" link="#" newTab={true} />
+            <Button
+              text="Contact Us"
+              link="https://wa.me/+971529180299"
+              newTab={true}
+            />
           </ButtonContainer>
         </Box>
       </Container>

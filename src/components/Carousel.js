@@ -140,15 +140,7 @@ const Carousel = () => {
           {" "}
           <img width={500} height={400} src={img3} alt="lens" />{" "}
         </SwiperSlide>
-        {/* <SwiperSlide>  <img width={500} height={400}  src={img2} alt="The Weirdos" />   </SwiperSlide>
-        <SwiperSlide>  <img width={500} height={400}  src={img3} alt="The Weirdos" />   </SwiperSlide>
-        <SwiperSlide>  <img width={500} height={400}  src={img4} alt="The Weirdos" />   </SwiperSlide>
-        <SwiperSlide>  <img width={500} height={400}  src={img5} alt="The Weirdos" />   </SwiperSlide>
-        <SwiperSlide>  <img width={500} height={400}  src={img6} alt="The Weirdos" />   </SwiperSlide>
-        <SwiperSlide>  <img width={500} height={400}  src={img7} alt="The Weirdos" />   </SwiperSlide>
-        <SwiperSlide>  <img width={500} height={400}  src={img8} alt="The Weirdos" />   </SwiperSlide>
-        <SwiperSlide>  <img width={500} height={400}  src={img9} alt="The Weirdos" />   </SwiperSlide>
-        <SwiperSlide>  <img width={500} height={400}  src={img10} alt="The Weirdos" />   </SwiperSlide> */}
+    
       </Swiper>
     </Container>
   );
