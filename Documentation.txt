@@ -1,0 +1,11 @@
+Folder Structure:
+
+    - assets => contains all the assests such as images, audio and svg files
+    - componenets => Files/Sections used to build this portfolio
+    - Icons => contains Icons in component format
+    - GlobalStyles.js => contains global styles for whole application
+    - Themes.js => contains Color and fonts size in variables
+
+
+
+
